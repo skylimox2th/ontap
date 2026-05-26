@@ -1,0 +1,29 @@
+{
+  "questions":[
+
+    {
+      "q":"What is PT? / PT là gì?",
+      "a":[
+        "Penetrant Testing / Kiểm tra thẩm thấu",
+        "Pressure Test / Kiểm tra áp suất",
+        "Power Test / Kiểm tra công suất",
+        "Plastic Test / Kiểm tra nhựa"
+      ],
+      "c":0,
+      "e":"PT = Penetrant Testing."
+    },
+
+    {
+      "q":"PT detects? / PT phát hiện gì?",
+      "a":[
+        "Internal defects / Khuyết tật bên trong",
+        "Surface defects / Khuyết tật bề mặt",
+        "Magnetic defects / Khuyết tật từ tính",
+        "Deep cracks / Vết nứt sâu"
+      ],
+      "c":1,
+      "e":"PT chỉ phát hiện khuyết tật hở bề mặt."
+    }
+
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name":"PT Quiz App",
+  "short_name":"PTQuiz",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#ffffff",
+  "theme_color":"#1976d2"
+}
